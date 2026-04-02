@@ -1,0 +1,11 @@
+mne
+torch
+scikit-learn
+matplotlib
+seaborn
+numpy
+fastapi
+uvicorn
+
+
+
